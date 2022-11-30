@@ -15,6 +15,7 @@
  }
 
  .parent {
+   margin-top: 20px;
     display: flex;
     height: 100vh;
  }
@@ -47,23 +48,25 @@
     
  }
 
-.element h3 {
-   text-align: center;
-   border: 1px solid purple;
-   padding: 10px;
-}
 
-.details {
-   border: 1px solid red;
-   margin: 10px;
-   
-   height: 80%;   
-}
+ .element h3 {
+    margin: 5px;
+    text-align: center;
+    border: 1px solid purple;
+
+ }
+
 
  button {
     margin-top: 10px;
  }
 
+ .details {
+   height: 90%;
+   border: 1px solid red;
+   margin: 10px;
+   
+ }
 
 
  
