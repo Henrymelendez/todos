@@ -1,0 +1,59 @@
+ * {
+    /* border: 1px solid black; */
+    
+ }
+
+ .header {
+    text-align: center;
+
+ }
+
+ div  {
+    
+    border: 1px solid black;
+
+ }
+
+ .parent {
+    display: flex;
+    height: 80vh;
+ }
+
+ label, input {
+    display: flex;
+    text-align: center; 
+    padding-top: 10px;  
+    width: 200px;
+ }
+
+ form {
+    
+ }
+ .form {
+    padding: 10px 80px;
+    margin-left: 5%;
+    width: 300px;
+ }
+
+
+ .element{
+
+    
+    width: 80vh;
+    border: 1px solid blue;
+    margin-left: 10%;
+    
+ }
+
+ .element, p {
+    padding: 5px;
+    text-align: center;
+ }
+
+ button {
+    margin-top: 10px;
+ }
+
+
+
+ 
