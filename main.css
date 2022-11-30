@@ -41,12 +41,13 @@
  .element{
 
     
-    width: 80vh;
+    width: 500px;
     border: 1px solid blue;
     margin-left: 10%;
     height: 80vh;
     
  }
+
 
  .element h3 {
     margin: 5px;
@@ -54,6 +55,7 @@
     border: 1px solid purple;
 
  }
+
 
  button {
     margin-top: 10px;
